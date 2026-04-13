@@ -12,7 +12,7 @@ class ListingActivity : MindfulnessActivity
         "Who are some of your personal heroes?"
     };
 
-    // Extra credit: no repeats until all prompts used
+    
     private List<string> _remainingPrompts;
     private Random _random = new Random();
 

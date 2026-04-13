@@ -24,7 +24,7 @@ class ReflectionActivity : MindfulnessActivity
         "How can you keep this experience in mind in the future?"
     };
 
-    // Extra credit: track used items so no repeats until exhausted
+    
     private List<string> _remainingPrompts;
     private List<string> _remainingQuestions;
     private Random _random = new Random();
